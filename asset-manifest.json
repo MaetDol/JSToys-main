@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.js": "/jstoys-main/static/js/main.bb344c1a.js",
+    "static/js/787.5cb9a3e3.chunk.js": "/jstoys-main/static/js/787.5cb9a3e3.chunk.js",
+    "static/media/leather_texture.jpg": "/jstoys-main/static/media/leather_texture.41a24144e979ae6f9f87.jpg",
+    "static/media/desk-atelier.webp": "/jstoys-main/static/media/desk-atelier.986235c69719796e07c5.webp",
+    "static/media/k-means.webp": "/jstoys-main/static/media/k-means.5aacbe7dc3a61648760c.webp",
+    "static/media/make-to-pixel.webp": "/jstoys-main/static/media/make-to-pixel.ae0165ce79e44e5dde59.webp",
+    "static/media/pie-chart.webp": "/jstoys-main/static/media/pie-chart.d2276ee8cbff60ab44d9.webp",
+    "static/media/water-wave.webp": "/jstoys-main/static/media/water-wave.08e65a87b2cfa6e82fa3.webp",
+    "static/media/css-dice.webp": "/jstoys-main/static/media/css-dice.30935be6399077efd51c.webp",
+    "static/media/github.svg": "/jstoys-main/static/media/github.b0e2189becee6e0489421b3e4dd5d646.svg",
+    "index.html": "/jstoys-main/index.html",
+    "static/media/outer-link.svg": "/jstoys-main/static/media/outer-link.3f78af1c23221675d268237d5e8d9045.svg",
+    "main.bb344c1a.js.map": "/jstoys-main/static/js/main.bb344c1a.js.map",
+    "787.5cb9a3e3.chunk.js.map": "/jstoys-main/static/js/787.5cb9a3e3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.bb344c1a.js"
+  ]
+}
